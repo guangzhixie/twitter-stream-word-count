@@ -3,6 +3,11 @@
 Use Apache Storm to ingest live tweets from Twitter Stream API, and stores word count in Postgres database for further analysis
 
 *****************************
+Application Architecture
+*****************************
+See this [document](docs/Architecture.pdf).
+
+*****************************
 Steps to run the application
 *****************************
 
