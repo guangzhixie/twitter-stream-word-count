@@ -42,6 +42,6 @@ Steps to run the serving scripts
 3. Get all the words with their total count of occurrences, sorted alphabetically in an ascending order:
 	$ python finalresults.py
 4. Get counts for a particular word:
-	$ python finalresults.py <your word>
+	$ python finalresults.py [your word]
 5. Get counts for a range ordered by their total number of occurrences:
-	$ python histogram.py <lower>,<upper>
+	$ python histogram.py [lower],[upper]
